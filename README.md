@@ -102,4 +102,4 @@ S, JP and Jossinet, J. (2010). Breast Tissue. UCI Machine Learning Repository. h
 
 ## ⚖️ License
 
-This project is released under the MIT License
+This project is released under the CC BY-SA 4.0 License
