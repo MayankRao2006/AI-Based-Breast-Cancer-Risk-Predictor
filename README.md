@@ -92,8 +92,7 @@ pip install -r requirements.txt
 
 ## 🙏 Credits
 
-Dataset author on Kaggle: Link to dataset
- 🌟
+Dataset author on Kaggle: https://www.kaggle.com/datasets/tarktunataalt/breast-tissue-impedance-measurements 🌟
 
 Original dataset citation:
 
